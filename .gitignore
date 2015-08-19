@@ -1,7 +1,7 @@
 node_modules/
 bower_components/
-raw/
 public/
+ember/
 **/*.js
 **/*.css
 **/*.html
